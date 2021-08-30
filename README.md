@@ -1,3 +1,2 @@
-# shopping_app
-
+# Shopping-Cart-with-Flutter
 A new Flutter project.
